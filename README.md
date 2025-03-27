@@ -1,4 +1,3 @@
-# Machine_learning_Assingment
 # Machine Learning Assignment - Support Vector Machines (SVM)
 
 This Jupyter Notebook explores the use of **Support Vector Machines (SVM)** with different kernel functions (Linear, Polynomial, and RBF) using the classic **Iris dataset**. The goal is to visualize how each kernel affects decision boundaries and to evaluate model performance based on training and testing accuracy.
